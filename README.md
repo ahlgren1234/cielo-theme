@@ -11,7 +11,9 @@ A modern, vibrant VS Code theme inspired by Halcyon but with a more energetic fe
 
 ## Screenshots
 
-*Add screenshots once theme is installed and running*
+![Cielo Theme Interface](./images/screen01.png)
+
+![Cielo Theme Code Example](./images/screen02.png)
 
 ## Installation
 
@@ -41,8 +43,8 @@ Example:
 
 ## Feedback and Contributions
 
-Feedback and contributions are welcome! Please file issues or submit pull requests on the [GitHub repository](https://github.com/yourusername/cielo-theme).
+Feedback and contributions are welcome! Please file issues or submit pull requests on the [GitHub repository](https://github.com/ahlgren1234/cielo-theme).
 
 ## License
 
-MIT
+[MIT](./LICENSE)

@@ -1,0 +1,34 @@
+{
+  "name": "cielo-theme",
+  "displayName": "Cielo Theme",
+  "description": "A modern, vibrant theme inspired by Halcyon",
+  "version": "0.1.0",
+  "publisher": "cielo",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Cielo",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cielo-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ahlgren1234/cielo-theme"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "cielo",
+    "vibrant",
+    "modern"
+  ],
+  "license": "MIT"
+}
